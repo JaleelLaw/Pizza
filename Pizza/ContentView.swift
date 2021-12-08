@@ -19,7 +19,7 @@ struct ContentView: View {
                     HStack {
                         Text("Pizza World 🍕")
                             .padding()
-                    
+                    Text("test")
                     }
                     Toggle(isOn: /*@START_MENU_TOKEN@*//*@PLACEHOLDER=Is On@*/.constant(true)/*@END_MENU_TOKEN@*/) {
                         /*@START_MENU_TOKEN@*//*@PLACEHOLDER=Label@*/Text("mushroom")/*@END_MENU_TOKEN@*/
